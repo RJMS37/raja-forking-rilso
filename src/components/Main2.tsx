@@ -14,7 +14,7 @@ export function Main2(){
             <GuideBox>
               <Heading className='ads' >Here's How it Works :</Heading>
                   <div>
-                    <TextM>• Install GmAwoo Extension from Chrome store</TextM>
+                    <TextM>• Just checking that the website update instantlye</TextM>
                     <TextM>• Go to tweet, Select Gm or Gn button, add hashtag and number of NFTs</TextM>
                     <TextM>• Compose tweet, extension populates with selected NFTs</TextM>
                     <TextM>• Share with DogePoundNFT community and boost your collection! </TextM>
